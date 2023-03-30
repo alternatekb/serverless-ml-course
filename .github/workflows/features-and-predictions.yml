@@ -7,7 +7,7 @@ on:
 
 jobs:
   test_schedule:
-    runs-on: linux-latest
+    runs-on: ubuntu-latest
     steps:
       - name: checkout repo content
         uses: actions/checkout@v2
