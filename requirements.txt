@@ -1,8 +1,6 @@
 #faker
 parsedatetime
-#hsfs[python]
-pandas
-numpy
+hsfs[python]=3.0.5
 nbconvert
 scikit-learn
 plotly
