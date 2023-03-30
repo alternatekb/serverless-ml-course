@@ -1,7 +1,8 @@
 #faker
 parsedatetime
 #hsfs[python]
-hopsworks
+pandas
+numpy
 nbconvert
 scikit-learn
 plotly
@@ -10,3 +11,4 @@ seaborn
 dataframe-image
 #streamlit_folium
 plotly
+hopsworks
