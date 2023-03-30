@@ -1,6 +1,6 @@
 #faker
 parsedatetime
-hsfs[python]==3.1.1rc4
+hsfs[python]==3.0.5
 nbconvert
 scikit-learn
 plotly
@@ -9,4 +9,4 @@ seaborn
 dataframe-image
 #streamlit_folium
 plotly
-hopsworks
+hopsworks==3.0.5
