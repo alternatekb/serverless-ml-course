@@ -1,4 +1,4 @@
-faker
+#faker
 parsedatetime
 hsfs[python]
 hopsworks
@@ -8,5 +8,5 @@ plotly
 Pillow
 seaborn
 dataframe-image
-streamlit_folium
+#streamlit_folium
 plotly
