@@ -1,6 +1,6 @@
 faker
 parsedatetime
-hsfs>=3.0.0,<3.1.0
+hsfs[python]
 hopsworks
 nbconvert
 scikit-learn
